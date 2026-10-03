@@ -56,6 +56,15 @@ Our production systems use modern web, cloud, database, analytics, and AI techno
 
 Most Sybatel product repositories are private while products are under active development or contain proprietary implementation details. Public repositories, technical resources, reference implementations, and selected open-source components will be published here as they become appropriate for external use.
 
+## Policies & community
+
+Sybatel maintains organization-wide standards for public collaboration and security:
+
+- [Security Policy](https://github.com/Sybatel/.github/blob/main/SECURITY.md)
+- [Contributing Guidelines](https://github.com/Sybatel/.github/blob/main/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/Sybatel/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Support Policy](https://github.com/Sybatel/.github/blob/main/SUPPORT.md)
+
 ## Work with Sybatel
 
 Explore our products, discuss an institutional deployment, or talk with us about a software or digital-infrastructure challenge.
