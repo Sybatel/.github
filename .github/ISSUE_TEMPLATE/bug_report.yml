@@ -1,0 +1,63 @@
+name: Bug report
+description: Report a reproducible problem in a public Sybatel repository
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve Sybatel software. Please do not include credentials, personal data, confidential customer information, or security-sensitive details in a public issue.
+  - type: input
+    id: repository_area
+    attributes:
+      label: Product or component
+      description: Identify the product, package, module, or area affected.
+      placeholder: e.g. API client, documentation, assessment workflow
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Problem summary
+      description: Describe what went wrong and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Provide the smallest reliable sequence that reproduces the problem.
+      placeholder: |
+        1. Go to ...
+        2. Select ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include relevant browser, operating system, runtime, package version, or deployment context.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Additional context
+      description: Add screenshots, logs, or links after removing secrets and sensitive information.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-submission checks
+      options:
+        - label: I searched existing issues for the same problem.
+          required: true
+        - label: This report does not contain credentials, private data, or confidential customer information.
+          required: true
+        - label: This is not a security vulnerability.
+          required: true
