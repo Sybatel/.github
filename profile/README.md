@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://sybatel.com/">
-  <img src="./assets/sybatel-logo.svg" alt="Sybatel Technologies" width="240" />
+  <img src="https://sybatel.com/brand/sybatel-logo.png" alt="Sybatel Technologies" width="240" />
 </a>
 
 ### Software, AI & Digital Infrastructure
