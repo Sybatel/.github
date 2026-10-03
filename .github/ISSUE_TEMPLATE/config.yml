@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://sybatel.com/contact
+    about: Report suspected vulnerabilities privately. Do not open a public issue.
+  - name: Product and customer support
+    url: https://sybatel.com/contact
+    about: Contact Sybatel for product support, institutional inquiries, implementation, or commercial matters.
+  - name: Request a demo
+    url: https://sybatel.com/book-a-demo
+    about: Discuss a Sybatel product or institutional deployment.
