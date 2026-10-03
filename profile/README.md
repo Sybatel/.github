@@ -6,7 +6,7 @@
 
 ### Software, AI & Digital Infrastructure
 
-**Purpose-built digital platforms for education, laboratory compliance, and institutional operations.**
+**Building dependable digital systems for institutions, enterprises and emerging markets.**
 
 [Website](https://sybatel.com/) · [Products](https://sybatel.com/products) · [Solutions](https://sybatel.com/solutions) · [About](https://sybatel.com/about) · [Contact](https://sybatel.com/contact)
 
@@ -20,7 +20,7 @@
 
 We design systems around real institutional workflows — bringing together software engineering, automation, data, governance, and applied AI to make operations more reliable, auditable, and effective.
 
-Our work currently spans **education technology, academic assessment, laboratory compliance, institutional software, and digital transformation**.
+Today, our platforms span **education, laboratory compliance, institutional operations, data systems, and other regulated or mission-critical environments** — while our broader focus is building dependable software, AI, and digital infrastructure for organizations solving complex real-world problems.
 
 ## Selected platforms
 
