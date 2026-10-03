@@ -1,0 +1,32 @@
+name: Documentation issue
+description: Report missing, inaccurate, or unclear documentation
+title: "[Docs]: "
+labels:
+  - documentation
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Documentation location
+      description: Provide the page, file, section, or URL.
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What needs improvement?
+      description: Explain what is missing, incorrect, outdated, or unclear.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested correction
+      description: Optional. Propose wording, examples, or structure that would improve the documentation.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-submission check
+      options:
+        - label: I checked that this issue has not already been reported.
+          required: true
